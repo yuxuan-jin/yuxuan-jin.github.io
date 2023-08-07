@@ -13,11 +13,11 @@ first_name: Yuxuan
 highlight_name: true
 interests:
 - Family Diversity
-- Gender & Sexuality
+- Gender and Sexuality
 - Quantitative Methods
 last_name: Jin
 organizations:
-- name: Netherlands Interdisciplinary Demographic Institute
+- name: the Netherlands Interdisciplinary Demographic Institute
   url: https://nidi.nl/en/
 role: Ph.D. Candidate
 social:
@@ -36,20 +36,16 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: www.linkedin.com/in/yuxuan-jin-a26187227
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
 status:
   icon: ☕️
 superuser: true
 title: Yuxuan Jin
 ---
 
-I am a Ph.D. candidate at NIDI-KNAW/University of Groningen. My doctoral research is on consequences of parental death for partners and children supervised by Prof. Dr. Matthijs Kalmijn and Prof. Dr. Helga de Valk. This project is a part of the KNAW funded project "The Early Death of a Parent: Multigenerational Analyses of Patterns and Consequences". Before working at NIDI, I completed my Research Master's degree in Sociology and Social Research at Utrecht University. My Master's thesis is on parenthood and health of people in same-sex and different-sex relationships supervised by Dr. Deni Mazrekaj. 
+I am a Ph.D. candidate at [NIDI](https://nidi.nl/en/). In my Ph.D. dissertation supervised by [Prof. Dr. Matthijs Kalmijn](https://matthijskalmijn.nl/)  and [Prof. Dr. Helga de Valk](https://nidi.nl/en/employees/helga-de-valk/), I investigate the consequences of early parental death for partners and children. Before working at NIDI, I completed my Research Master's degree in Sociology and Social Research at Utrecht University. In my Master's thesis supervised by [Dr. Deni Mazrekaj](https://denimazrekaj.com/), I investigated the association between parenthood and health of people in same-sex and different-sex relationships. 
 
-I am particularly interested in family diversity, gender & sexuality, and quantitative methods. Please free to contact me and follow my work.
+I am particularly interested in family diversity, gender and sexuality, and quantitative methods. Please free to contact me and follow my work.
 
-{{% staticref "files/cv.pdf" %}}Download my CV📕{{% /staticref %}}
 
 {style="text-align: justify;"}
 
